@@ -1,4 +1,6 @@
 # PeerType
-A simple PeerJS-based WebRTC synced text box.
+A WebRTC-based peer-to-peer synced text field.
 
-Hosted on [http://www.wey.space/PeerType/](http://www.wey.space/PeerType/).
+Built in HTML and JavaScript with the PeerJS library and a custom-written multiplexer interface for maintaining simultaneous connections with a theoretically unlimited number of peers.
+
+Hosted on [http://www.wey.space/PeerType/](http://www.wey.space/PeerType/)
